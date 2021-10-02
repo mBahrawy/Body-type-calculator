@@ -1,0 +1,683 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: rgb(255, 255, 255); display: block; z-index: 1; position: relative; shape-rendering: auto; animation-play-state: running; animation-delay: 0s;" width="1290" height="799" preserveAspectRatio="xMidYMid" viewBox="0 0 1290 799">
+<g transform="translate(645,399.5) scale(1,1) translate(-645,-399.5)" style="animation-play-state: running; animation-delay: 0s;"><path id="path0" d="M 903.3764306843887 258.6217725425774
+c 0 23.057414837883776 -5.641707885865179 6.622874474711298 -12.264582360576476 6.622874474711298
+S 878.8472659632357 281.67918738046114 878.8472659632357 258.6217725425774
+s 5.641707885865179 -6.622874474711298 12.264582360576476 -6.622874474711298
+S 903.3764306843887 235.5643577046936 903.3764306843887 258.6217725425774
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.920125462582187" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-2.074420739633223s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path0" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path1" d="M 1047.6326850019605 291.3576707922819
+c 0 23.70942843174801 -5.801243126917065 6.810154975076555 -12.61139810199362 6.810154975076555
+S 1022.4098887979732 315.0670992240299 1022.4098887979732 291.3576707922819
+s 5.801243126917065 -6.810154975076555 12.61139810199362 -6.810154975076555
+S 1047.6326850019605 267.6482423605339 1047.6326850019605 291.3576707922819
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.547315562175" fill="#9df871" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-3.7827495163082947s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path1" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path2" d="M 654.8754527917063 89.52684419563603
+c 0 23.384984742854957 -5.721857968996425 6.716963702734934 -12.43882167173136 6.716963702734934
+S 629.9978094482435 112.91182893849098 629.9978094482435 89.52684419563603
+s 5.721857968996425 -6.716963702734934 12.43882167173136 -6.716963702734934
+S 654.8754527917063 66.14185945278108 654.8754527917063 89.52684419563603
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.298724421482695" fill="#9df871" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.825115665010942s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path2" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path3" d="M 809.3260724825843 460.2101116194563
+c 0 29.206868759612 -7.146361505011446 8.389206984143872 -15.535568489155319 8.389206984143872
+S 778.2549355042736 489.4169803790683 778.2549355042736 460.2101116194563
+s 7.146361505011446 -8.389206984143872 15.535568489155319 -8.389206984143872
+S 809.3260724825843 431.0032428598443 809.3260724825843 460.2101116194563
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.805930281420031" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.947889820523139s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path3" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path4" d="M 477.98858567105486 668.1284111579628
+c 0 30.365634578755415 -7.429889311823133 8.722043974748896 -16.151933286572028 8.722043974748896
+S 445.6847190979108 698.4940457367181 445.6847190979108 668.1284111579628
+s 7.429889311823133 -8.722043974748896 16.151933286572028 -8.722043974748896
+S 477.98858567105486 637.7627765792074 477.98858567105486 668.1284111579628
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.923529169006983" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.188332080937541s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path4" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path5" d="M 779.604282582894 584.2460670335847
+c 0 30.723692489916495 -7.517499226256163 8.824890396039844 -16.342389622296007 8.824890396039844
+S 746.9195033383021 614.9697595235012 746.9195033383021 584.2460670335847
+s 7.517499226256163 -8.824890396039844 16.342389622296007 -8.824890396039844
+S 779.604282582894 553.5223745436682 779.604282582894 584.2460670335847
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.384982373595508" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-1.8077502373743308s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path5" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path6" d="M 721.5654934986618 255.92409845779883
+c 0 23.878427294939275 -5.842593912591524 6.8586972017378764 -12.7012911143294 6.8586972017378764
+S 696.1629112700031 279.8025257527381 696.1629112700031 255.92409845779883
+s 5.842593912591524 -6.8586972017378764 12.7012911143294 -6.8586972017378764
+S 721.5654934986618 232.04567116285955 721.5654934986618 255.92409845779883
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.942906606162333" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.355314718396741s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path6" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path7" d="M 352.3764664794328 559.0620510677286
+c 0 32.67903021936854 -7.995932926015707 9.386529956627134 -17.38246288264284 9.386529956627134
+S 317.61154071414705 591.7410812870971 317.61154071414705 559.0620510677286
+s 7.995932926015707 -9.386529956627134 17.38246288264284 -9.386529956627134
+S 352.3764664794328 526.38302084836 352.3764664794328 559.0620510677286
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.569983991930184" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.397143398908675s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path7" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path8" d="M 517.3188821790202 411.83814978674985
+c 0 30.338724470833405 -7.423304923714555 8.714314475664915 -16.13761939937947 8.714314475664915
+S 485.0436433802613 442.1768742575833 485.0436433802613 411.83814978674985
+s 7.423304923714555 -8.714314475664915 16.13761939937947 -8.714314475664915
+S 517.3188821790202 381.4994253159164 517.3188821790202 411.83814978674985
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.43771936052355" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.556789090474381s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path8" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path9" d="M 705.5372146065996 445.3855659409803
+c 0 29.27490670312576 -7.163009086935026 8.408749797706337 -15.571758884641362 8.408749797706337
+S 674.393696837317 474.66047264410605 674.393696837317 445.3855659409803
+s 7.163009086935026 -8.408749797706337 15.571758884641362 -8.408749797706337
+S 705.5372146065996 416.1106592378546 705.5372146065996 445.3855659409803
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.9875921295199888" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.668484031988617s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path9" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path10" d="M 1167.3643198424215 253.1313544447498
+c 0 31.559061219397357 -7.721897957937649 9.064836733231155 -16.786734691168807 9.064836733231155
+S 1133.7908504600841 284.69041566414717 1133.7908504600841 253.1313544447498
+s 7.721897957937649 -9.064836733231155 16.786734691168807 -9.064836733231155
+S 1167.3643198424215 221.57229322535244 1167.3643198424215 253.1313544447498
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.947972147864068" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.829888545077345s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path10" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path11" d="M 547.9216998332155 91.0235293899087
+c 0 20.224390704901218 -4.9485211299226375 5.809133500343966 -10.757654630266604 5.809133500343966
+S 526.4063905726822 111.24792009480993 526.4063905726822 91.0235293899087
+s 4.9485211299226375 -5.809133500343966 10.757654630266604 -5.809133500343966
+S 547.9216998332155 70.79913868500748 547.9216998332155 91.0235293899087
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.350677176931335" fill="#e0ff77" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.29833522885834s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path11" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path12" d="M 678.1736459810345 780.245687263135
+c 0 21.87887316527159 -5.353341306396239 6.284357185769498 -11.637698492165738 6.284357185769498
+S 654.8982489967029 802.1245604284065 654.8982489967029 780.245687263135
+s 5.353341306396239 -6.284357185769498 11.637698492165738 -6.284357185769498
+S 678.1736459810345 758.3668140978634 678.1736459810345 780.245687263135
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.938564729429648" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-1.0196995935786302s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path12" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path13" d="M 313.32291021910083 649.8664613036113
+c 0 35.22150611287597 -8.618028091448375 10.116815585613312 -18.734843677061686 10.116815585613312
+S 275.85322286497745 685.0879674164873 275.85322286497745 649.8664613036113
+s 8.618028091448375 -10.116815585613312 18.734843677061686 -10.116815585613312
+S 313.32291021910083 614.6449551907353 313.32291021910083 649.8664613036113
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.468026060751789" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-6.164108407981545s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path13" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path14" d="M 1041.729149797957 99.31865574072125
+c 0 18.8788768792635 -4.619299661947451 5.422656124894836 -10.041955786842287 5.422656124894836
+S 1021.6452382242725 118.19753261998476 1021.6452382242725 99.31865574072125
+s 4.619299661947451 -5.422656124894836 10.041955786842287 -5.422656124894836
+S 1041.729149797957 80.43977886145775 1041.729149797957 99.31865574072125
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.102489108652066" fill="#e0ff77" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-2.41903381689295s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path14" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path15" d="M 285.68185895441076 209.11506910637488
+c 0 26.750229638282555 -6.545268954047858 7.683576598230095 -14.228845552277953 7.683576598230095
+S 257.22416784985484 235.86529874465742 257.22416784985484 209.11506910637488
+s 6.545268954047858 -7.683576598230095 14.228845552277953 -7.683576598230095
+S 285.68185895441076 182.36483946809233 285.68185895441076 209.11506910637488
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.435735025740715" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-2.823342691303098s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path15" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path16" d="M 874.307694977953 338.2775346641348
+c 0 34.895736661886716 -8.538318544929728 10.023243509265335 -18.56156205419506 10.023243509265335
+S 837.1845708695629 373.1732713260215 837.1845708695629 338.2775346641348
+s 8.538318544929728 -10.023243509265335 18.56156205419506 -10.023243509265335
+S 874.307694977953 303.3817980022481 874.307694977953 338.2775346641348
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.11030383064103" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.472016305859965s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path16" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path17" d="M 274.4324175049787 166.22798720865512
+c 0 21.578175793189267 -5.27976641748248 6.1979866640011725 -11.477753081483652 6.1979866640011725
+S 251.4769113420114 187.8061630018444 251.4769113420114 166.22798720865512
+s 5.27976641748248 -6.1979866640011725 11.477753081483652 -6.1979866640011725
+S 274.4324175049787 144.64981141546585 274.4324175049787 166.22798720865512
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="6.065535251636604" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.80598438622478s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path17" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path18" d="M 292.69597479769743 456.520711491651
+c 0 27.819531651014056 -6.806906680567269 7.99071653805723 -14.797623218624498 7.99071653805723
+S 263.10072836044844 484.3402431426651 263.10072836044844 456.520711491651
+s 6.806906680567269 -7.99071653805723 14.797623218624498 -7.99071653805723
+S 292.69597479769743 428.70117984063694 292.69597479769743 456.520711491651
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.6878188882212646" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-2.5409524883900807s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path18" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path19" d="M 748.0990861767654 565.9034645629449
+c 0 28.388260986241008 -6.946063858335565 8.154074964133056 -15.10013882246862 8.154074964133056
+S 717.8988085318282 594.2917255491859 717.8988085318282 565.9034645629449
+s 6.946063858335565 -8.154074964133056 15.10013882246862 -8.154074964133056
+S 748.0990861767654 537.5152035767039 748.0990861767654 565.9034645629449
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.4414526573679947" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-0.7156846588979534s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path19" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path20" d="M 1237.6852926563886 575.5570825488934
+c 0 20.387944509127532 -4.988539613935459 5.856111720706844 -10.844651334642304 5.856111720706844
+S 1215.995989987104 595.945027058021 1215.995989987104 575.5570825488934
+s 4.988539613935459 -5.856111720706844 10.844651334642304 -5.856111720706844
+S 1237.6852926563886 555.1691380397658 1237.6852926563886 575.5570825488934
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.5271034404381894" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-0.2915205906372065s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path20" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path21" d="M 231.70207621340265 672.3153311020351
+c 0 28.121774601617297 -6.880859742948912 8.077531002592202 -14.958390745541115 8.077531002592202
+S 201.7852947223204 700.4371057036524 201.7852947223204 672.3153311020351
+s 6.880859742948912 -8.077531002592202 14.958390745541115 -8.077531002592202
+S 231.70207621340265 644.1935565004178 231.70207621340265 672.3153311020351
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="6.116898588865531" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-1.0161411150731576s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path21" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path22" d="M 1240.2248512335066 5.688025145798187
+c 0 29.45638200585718 -7.207412618454415 8.460875682533445 -15.66828830098786 8.460875682533445
+S 1208.888274631531 35.144407151655365 1208.888274631531 5.688025145798187
+s 7.207412618454415 -8.460875682533445 15.66828830098786 -8.460875682533445
+S 1240.2248512335066 -23.768356860058994 1240.2248512335066 5.688025145798187
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.579573910126981" fill="#e0ff77" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.06414326058696s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path22" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path23" d="M 1079.2122334818362 109.40568653282108
+c 0 31.614554855540323 -7.7354761880577385 9.080776394676477 -16.816252582734215 9.080776394676477
+S 1045.5797283163677 141.0202413883614 1045.5797283163677 109.40568653282108
+s 7.7354761880577385 -9.080776394676477 16.816252582734215 -9.080776394676477
+S 1079.2122334818362 77.79113167728076 1079.2122334818362 109.40568653282108
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.805028337953904" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-3.0303528715628216s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path23" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path24" d="M 622.611838772641 23.989141514916057
+c 0 31.687845414106985 -7.753408984302772 9.10182793809456 -16.85523692239733 9.10182793809456
+S 588.9013649278463 55.676986929023045 588.9013649278463 23.989141514916057
+s 7.753408984302772 -9.10182793809456 16.85523692239733 -9.10182793809456
+S 622.611838772641 -7.698703899190928 622.611838772641 23.989141514916057
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.65826033564673" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.491060869037394s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path24" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path25" d="M 193.51354603516424 480.23401050508744
+c 0 36.15388819760493 -8.846164133456524 10.384627461014182 -19.230791594470706 10.384627461014182
+S 155.05196284622284 516.3878987026924 155.05196284622284 480.23401050508744
+s 8.846164133456524 -10.384627461014182 19.230791594470706 -10.384627461014182
+S 193.51354603516424 444.0801223074825 193.51354603516424 480.23401050508744
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.9399236838381273" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-6.164067502529504s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path25" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path26" d="M 518.0968035582003 311.63429905418997
+c 0 31.62558218278395 -7.738174363872668 9.08394381845922 -16.822118182331888 9.08394381845922
+S 484.45256719353654 343.2598812369739 484.45256719353654 311.63429905418997
+s 7.738174363872668 -9.08394381845922 16.822118182331888 -9.08394381845922
+S 518.0968035582003 280.008716871406 518.0968035582003 311.63429905418997
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.697352298382016" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-0.9346276847849045s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path26" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path27" d="M 985.6813107251945 719.8792372958263
+c 0 28.358903642387027 -6.9388806784564 8.145642535579253 -15.084523214035652 8.145642535579253
+S 955.5122642971231 748.2381409382134 955.5122642971231 719.8792372958263
+s 6.9388806784564 -8.145642535579253 15.084523214035652 -8.145642535579253
+S 985.6813107251945 691.5203336534393 985.6813107251945 719.8792372958263
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.058113910479828" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.113857364036903s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path27" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path28" d="M 517.0738589390895 18.36389837173266
+c 0 33.063945522518715 -8.090114329977983 9.497090735191547 -17.587205065169528 9.497090735191547
+S 481.8994488087505 51.427843894251374 481.8994488087505 18.36389837173266
+s 8.090114329977983 -9.497090735191547 17.587205065169528 -9.497090735191547
+S 517.0738589390895 -14.700047150786055 517.0738589390895 18.36389837173266
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.293903450984767" fill="#9df871" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-2.800514201047176s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path28" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path29" d="M 343.0577617394122 643.2629113627901
+c 0 26.98094203859243 -6.601719860506658 7.749845053638252 -14.351564914144909 7.749845053638252
+S 314.3546319111224 670.2438534013825 314.3546319111224 643.2629113627901
+s 6.601719860506658 -7.749845053638252 14.351564914144909 -7.749845053638252
+S 343.0577617394122 616.2819693241977 343.0577617394122 643.2629113627901
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.35757810263234" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.134649827750452s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path29" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path30" d="M 1210.6459575840802 133.68099060210662
+c 0 25.981822702054107 -6.357254490928132 7.462863967611287 -13.820118458539419 7.462863967611287
+S 1183.0057206670015 159.66281330416072 1183.0057206670015 133.68099060210662
+s 6.357254490928132 -7.462863967611287 13.820118458539419 -7.462863967611287
+S 1210.6459575840802 107.69916790005252 1210.6459575840802 133.68099060210662
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.9426918361013765" fill="#e0ff77" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.07482163161491s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path30" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path31" d="M 394.87676287963455 778.3871270393411
+c 0 34.08582383310597 -8.34014838469614 9.79060897333895 -18.13075735803509 9.79060897333895
+S 358.61524816356433 812.4729508724471 358.61524816356433 778.3871270393411
+s 8.34014838469614 -9.79060897333895 18.13075735803509 -9.79060897333895
+S 394.87676287963455 744.301303206235 394.87676287963455 778.3871270393411
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="6.362168979127896" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-2.0127485150521056s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path31" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path32" d="M 427.47392227802186 537.0563061716274
+c 0 30.94293190011101 -7.571142911729289 8.887863418116993 -16.459006329846282 8.887863418116993
+S 394.55590961832934 567.9992380717384 394.55590961832934 537.0563061716274
+s 7.571142911729289 -8.887863418116993 16.459006329846282 -8.887863418116993
+S 427.47392227802186 506.11337427151636 427.47392227802186 537.0563061716274
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.824812561669153" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-0.12390660789225313s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path32" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path33" d="M 24.92594374728278 486.67114056485406
+c 0 34.73457621167146 -8.498885668813228 9.976952741650313 -18.475838410463542 9.976952741650313
+S -12.025733073644304 521.4057167765255 -12.025733073644304 486.67114056485406
+s 8.498885668813228 -9.976952741650313 18.475838410463542 -9.976952741650313
+S 24.92594374728278 451.9365643531826 24.92594374728278 486.67114056485406
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.978346553814624" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.984387737138326s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path33" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path34" d="M 1210.5182747511335 549.2323112880368
+c 0 37.161705508777366 -9.092757730871057 10.67410690145733 -19.766864632328385 10.67410690145733
+S 1170.9845454864767 586.3940167968142 1170.9845454864767 549.2323112880368
+s 9.092757730871057 -10.67410690145733 19.766864632328385 -10.67410690145733
+S 1210.5182747511335 512.0706057792595 1210.5182747511335 549.2323112880368
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="6.01591865792302" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.413975084105455s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path34" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path35" d="M 335.835909812828 437.0619117059596
+c 0 21.60468815772055 -5.286253485399708 6.205601917643137 -11.491855403042845 6.205601917643137
+S 312.8521990067423 458.6665998636801 312.8521990067423 437.0619117059596
+s 5.286253485399708 -6.205601917643137 11.491855403042845 -6.205601917643137
+S 335.835909812828 415.457223548239 335.835909812828 437.0619117059596
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.705814003971085" fill="#9df871" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-1.6723585076739664s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path35" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path36" d="M 232.5149037286992 472.46382714312045
+c 0 31.217968765287914 -7.6384391659747015 8.966863368752911 -16.605302534727613 8.966863368752911
+S 199.30429865924395 503.6817959084084 199.30429865924395 472.46382714312045
+s 7.6384391659747015 -8.966863368752911 16.605302534727613 -8.966863368752911
+S 232.5149037286992 441.2458583778325 232.5149037286992 472.46382714312045
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.566318154692332" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-0.009977918221447259s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path36" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path37" d="M 619.4006459937953 300.08628400337193
+c 0 32.498441395348316 -7.95174629886182 9.334658698663878 -17.286404997525697 9.334658698663878
+S 584.8278359987439 332.58472539872025 584.8278359987439 300.08628400337193
+s 7.95174629886182 -9.334658698663878 17.286404997525697 -9.334658698663878
+S 619.4006459937953 267.5878426080236 619.4006459937953 300.08628400337193
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.7636119450124355" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-0.9522809066081374s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path37" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path38" d="M 132.3999020704541 179.4096435094209
+c 0 20.596393698279464 -5.039543138940719 5.915985423973888 -10.955528562914607 5.915985423973888
+S 110.48884494462487 200.00603720770036 110.48884494462487 179.4096435094209
+s 5.039543138940719 -5.915985423973888 10.955528562914607 -5.915985423973888
+S 132.3999020704541 158.81324981114145 132.3999020704541 179.4096435094209
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.572025632586347" fill="#e0ff77" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-6.254135826970702s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path38" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path39" d="M 165.81015198027453 351.9178576744068
+c 0 35.77352802999814 -8.753097283935713 10.275375072446273 -19.028472356381986 10.275375072446273
+S 127.75320726751055 387.6913857044049 127.75320726751055 351.9178576744068
+s 8.753097283935713 -10.275375072446273 19.028472356381986 -10.275375072446273
+S 165.81015198027453 316.14432964440863 165.81015198027453 351.9178576744068
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.579278365698659" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-2.82280547053152s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path39" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path40" d="M 1276.0573074914482 258.7442651265553
+c 0 20.04903197532002 -4.905614206727238 5.758764503549367 -10.664378710276605 5.758764503549367
+S 1254.728550070895 278.79329710187534 1254.728550070895 258.7442651265553
+s 4.905614206727238 -5.758764503549367 10.664378710276605 -5.758764503549367
+S 1276.0573074914482 238.6952331512353 1276.0573074914482 258.7442651265553
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.433875516159185" fill="#e0ff77" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.812286217109256s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path40" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path41" d="M 445.31796365336646 511.8114007487773
+c 0 30.634990549462312 -7.49579555997482 8.799412179100877 -16.295207739075696 8.799412179100877
+S 412.7275481752151 542.4463912982396 412.7275481752151 511.8114007487773
+s 7.49579555997482 -8.799412179100877 16.295207739075696 -8.799412179100877
+S 445.31796365336646 481.176410199315 445.31796365336646 511.8114007487773
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.4527044606074258" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-2.7685182963021435s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path41" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path42" d="M 866.0398401134534 602.2211880067035
+c 0 34.74813141623456 -8.50220236780207 9.980846257854607 -18.48304862565668 9.980846257854607
+S 829.07374286214 636.969319422938 829.07374286214 602.2211880067035
+s 8.50220236780207 -9.980846257854607 18.48304862565668 -9.980846257854607
+S 866.0398401134534 567.473056590469 866.0398401134534 602.2211880067035
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.881963053335068" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-6.221099167589593s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path42" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path43" d="M 448.08665699736645 370.90569363476425
+c 0 30.582642457828133 -7.482986984362202 8.784376025120848 -16.26736300948305 8.784376025120848
+S 415.5519309784003 401.48833609259236 415.5519309784003 370.90569363476425
+s 7.482986984362202 -8.784376025120848 16.26736300948305 -8.784376025120848
+S 448.08665699736645 340.32305117693613 448.08665699736645 370.90569363476425
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="6.342329849310227" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-1.0525353364830587s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path43" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path44" d="M 439.7461811624414 382.2967611021228
+c 0 34.834078948340846 -8.523232083104675 10.005533314948966 -18.528765398053643 10.005533314948966
+S 402.6886503663342 417.13084005046363 402.6886503663342 382.2967611021228
+s 8.523232083104675 -10.005533314948966 18.528765398053643 -10.005533314948966
+S 439.7461811624414 347.46268215378194 439.7461811624414 382.2967611021228
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.0934047138031895" fill="#e0ff77" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-2.293564363908074s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path44" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path45" d="M 474.9078023212655 384.93601409219
+c 0 27.757971939308984 -6.791844197916027 7.9730344932057715 -14.7648786911218 7.9730344932057715
+S 445.3780449390219 412.693986031499 445.3780449390219 384.93601409219
+s 6.791844197916027 -7.9730344932057715 14.7648786911218 -7.9730344932057715
+S 474.9078023212655 357.17804215288106 474.9078023212655 384.93601409219
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.407039269856023" fill="#9df871" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.684984296160966s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path45" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path46" d="M 266.07850781374344 565.6100112639941
+c 0 24.0274681956735 -5.879061367026494 6.901506822161537 -12.780568189188031 6.901506822161537
+S 240.51737143536735 589.6374794596676 240.51737143536735 565.6100112639941
+s 5.879061367026494 -6.901506822161537 12.780568189188031 -6.901506822161537
+S 266.07850781374344 541.5825430683207 266.07850781374344 565.6100112639941
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.522231963322704" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-0.6419972286275818s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path46" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path47" d="M 531.5329684936431 577.1440284647402
+c 0 20.968544245063697 -5.130601251451755 6.022879729965104 -11.153480981416859 6.022879729965104
+S 509.22600653080946 598.112572709804 509.22600653080946 577.1440284647402
+s 5.130601251451755 -6.022879729965104 11.153480981416859 -6.022879729965104
+S 531.5329684936431 556.1754842196765 531.5329684936431 577.1440284647402
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.7798970199911976" fill="#9df871" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.36858928487725s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path47" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path48" d="M 29.591850506248115 593.678802059903
+c 0 34.628403257677626 -8.472907180070056 9.94645625486485 -18.419363434934905 9.94645625486485
+S -7.246876363621695 628.3072053175806 -7.246876363621695 593.678802059903
+s 8.472907180070056 -9.94645625486485 18.419363434934905 -9.94645625486485
+S 29.591850506248115 559.0503988022253 29.591850506248115 593.678802059903
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.213704154819856" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-6.022439683835683s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path48" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path49" d="M 1129.552370993303 203.5448662767546
+c 0 26.897362429127124 -6.581269530531104 7.725838144536515 -14.307107675067618 7.725838144536515
+S 1100.9381556431679 230.44222870588172 1100.9381556431679 203.5448662767546
+s 6.581269530531104 -7.725838144536515 14.307107675067618 -7.725838144536515
+S 1129.552370993303 176.64750384762746 1129.552370993303 203.5448662767546
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.403420115034579" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-0.768977579941645s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path49" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path50" d="M 1113.0093079718977 634.1951980688033
+c 0 30.958952802737034 -7.5750629198186346 8.892465166743616 -16.46752808656225 8.892465166743616
+S 1080.0742517987733 665.1541508715403 1080.0742517987733 634.1951980688033
+s 7.5750629198186346 -8.892465166743616 16.46752808656225 -8.892465166743616
+S 1113.0093079718977 603.2362452660662 1113.0093079718977 634.1951980688033
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.096429630085267" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.272634892227444s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path50" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path51" d="M 307.6521896946758 456.461741927544
+c 0 25.18853675171735 -6.163152609462755 7.23500523719541 -13.398157846658165 7.23500523719541
+S 280.85587400135955 481.6502786792613 280.85587400135955 456.461741927544
+s 6.163152609462755 -7.23500523719541 13.398157846658165 -7.23500523719541
+S 307.6521896946758 431.27320517582666 307.6521896946758 456.461741927544
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.2140912963110075" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.898681611445143s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path51" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path52" d="M 1045.0226704322988 272.2057256271236
+c 0 36.74882269440311 -8.991733212460336 10.555512901583873 -19.547246114044206 10.555512901583873
+S 1005.9281782042104 308.9545483215267 1005.9281782042104 272.2057256271236
+s 8.991733212460336 -10.555512901583873 19.547246114044206 -10.555512901583873
+S 1045.0226704322988 235.4569029327205 1045.0226704322988 272.2057256271236
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="6.258208094539495" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-4.3585390582366275s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path52" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path53" d="M 152.63258348767707 676.9003490040486
+c 0 21.094896428839675 -5.161517211311835 6.059172378496502 -11.220689589808337 6.059172378496502
+S 130.1912043080604 697.9952454328883 130.1912043080604 676.9003490040486
+s 5.161517211311835 -6.059172378496502 11.220689589808337 -6.059172378496502
+S 152.63258348767707 655.805452575209 152.63258348767707 676.9003490040486
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.3279378654948726" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-3.703180812270833s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path53" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path54" d="M 36.517479710689905 166.90617816812187
+c 0 29.80707634310141 -7.2932208073546 8.561607034720618 -15.854827842075219 8.561607034720618
+S 4.807824026539466 196.71325451122328 4.807824026539466 166.90617816812187
+s 7.2932208073546 -8.561607034720618 15.854827842075219 -8.561607034720618
+S 36.517479710689905 137.09910182502045 36.517479710689905 166.90617816812187
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.052294932029391" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-1.052279960953899s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path54" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path55" d="M 976.7776484649806 599.3487669467263
+c 0 36.04657529266531 -8.819906720545767 10.353803541510247 -19.173710262056012 10.353803541510247
+S 938.4302279408686 635.3953422393917 938.4302279408686 599.3487669467263
+s 8.819906720545767 -10.353803541510247 19.173710262056012 -10.353803541510247
+S 976.7776484649806 563.302191654061 976.7776484649806 599.3487669467263
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.67481631843006" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-3.732545433420982s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path55" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path56" d="M 537.4590545876853 211.50180052397002
+c 0 32.211108594064974 -7.881441464505258 9.25212693659313 -17.13356840109839 9.25212693659313
+S 503.1919177854885 243.712909118035 503.1919177854885 211.50180052397002
+s 7.881441464505258 -9.25212693659313 17.13356840109839 -9.25212693659313
+S 537.4590545876853 179.29069192990505 537.4590545876853 211.50180052397002
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.983617600412699" fill="#e0ff77" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-1.0059818104162974s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path56" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path57" d="M 843.5400573509053 708.165549379672
+c 0 19.829181288474572 -4.851820953562927 5.6956159020086545 -10.547436855571581 5.6956159020086545
+S 822.445183639762 727.9947306681466 822.445183639762 708.165549379672
+s 4.851820953562927 -5.6956159020086545 10.547436855571581 -5.6956159020086545
+S 843.5400573509053 688.3363680911974 843.5400573509053 708.165549379672
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.3587852715799715" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-2.6793217501687856s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path57" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path58" d="M 815.0671057223084 418.4070062974952
+c 0 26.92128031210992 -6.58712177849498 7.732708174754978 -14.319829953249958 7.732708174754978
+S 786.4274458158085 445.3282866096051 786.4274458158085 418.4070062974952
+s 6.58712177849498 -7.732708174754978 14.319829953249958 -7.732708174754978
+S 815.0671057223084 391.4857259853853 815.0671057223084 418.4070062974952
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.205528558991751" fill="#9df871" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-2.048922546952767s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path58" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path59" d="M 1279.4724504534984 81.17167291024087
+c 0 21.805417823088014 -5.335368190755577 6.263258310886982 -11.59862650164256 6.263258310886982
+S 1256.2751974502135 102.97709073332888 1256.2751974502135 81.17167291024087
+s 5.335368190755577 -6.263258310886982 11.59862650164256 -6.263258310886982
+S 1279.4724504534984 59.36625508715286 1279.4724504534984 81.17167291024087
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="6.371966193796173" fill="#ff708e" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.215542461516248s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path59" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path60" d="M 939.2205579341835 192.10136106874947
+c 0 20.05700929507365 -4.907566104113766 5.761055861350943 -10.668621965464709 5.761055861350943
+S 917.8833140032541 212.1583703638231 917.8833140032541 192.10136106874947
+s 4.907566104113766 -5.761055861350943 10.668621965464709 -5.761055861350943
+S 939.2205579341835 172.04435177367583 939.2205579341835 192.10136106874947
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.779140360587719" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.132128217374785s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path60" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path61" d="M 296.77083914537496 695.7106970666891
+c 0 27.69931933796076 -6.777493029501035 7.95618746941426 -14.733680498915296 7.95618746941426
+S 267.30347814754435 723.4100164046499 267.30347814754435 695.7106970666891
+s 6.777493029501035 -7.95618746941426 14.733680498915296 -7.95618746941426
+S 296.77083914537496 668.0113777287283 296.77083914537496 695.7106970666891
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.899915081439198" fill="#9df871" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-0.7380837777744831s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path61" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path62" d="M 1084.0252564369762 757.9774584415554
+c 0 21.366979990140603 -5.228090848651424 6.1373240397212365 -11.36541488837266 6.1373240397212365
+S 1061.2944266602308 779.3444384316961 1061.2944266602308 757.9774584415554
+s 5.228090848651424 -6.1373240397212365 11.36541488837266 -6.1373240397212365
+S 1084.0252564369762 736.6104784514148 1084.0252564369762 757.9774584415554
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.885949788641927" fill="#9df871" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-0.6900308316983856s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path62" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path63" d="M 254.07000270706746 535.3708463336775
+c 0 31.795822413326647 -7.779828888367158 9.132842608083186 -16.912671496450344 9.132842608083186
+S 220.24465971416677 567.1666687470041 220.24465971416677 535.3708463336775
+s 7.779828888367158 -9.132842608083186 16.912671496450344 -9.132842608083186
+S 254.07000270706746 503.5750239203509 254.07000270706746 535.3708463336775
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="6.316941915238411" fill="#9df871" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.137706421091309s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path63" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path64" d="M 432.10642371683224 45.23078634324377
+c 0 23.13271079722091 -5.660131365277456 6.644502037499623 -12.304633402777078 6.644502037499623
+S 407.49715691127807 68.36349714046469 407.49715691127807 45.23078634324377
+s 5.660131365277456 -6.644502037499623 12.304633402777078 -6.644502037499623
+S 432.10642371683224 22.098075546022862 432.10642371683224 45.23078634324377
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="4.886202723644302" fill="#9df871" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-1.9394847927347727s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path64" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path65" d="M 411.06997283958043 766.1150222373766
+c 0 35.2360344485189 -8.621582896978028 10.120988618191598 -18.742571515169626 10.120988618191598
+S 373.58482980924117 801.3510566858955 373.58482980924117 766.1150222373766
+s 8.621582896978028 -10.120988618191598 18.742571515169626 -10.120988618191598
+S 411.06997283958043 730.8789877888577 411.06997283958043 766.1150222373766
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="5.283566147969138" fill="#51cacc" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-1.6565320405733015s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path65" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path66" d="M 219.37666044386643 687.1755432323642
+c 0 28.79962943126331 -7.046717839564425 8.272233985575632 -15.318951825140058 8.272233985575632
+S 188.7387567935863 715.9751726636275 188.7387567935863 687.1755432323642
+s 7.046717839564425 -8.272233985575632 15.318951825140058 -8.272233985575632
+S 219.37666044386643 658.375913801101 219.37666044386643 687.1755432323642
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="3.4736839273252027" fill="#9df871" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-5.520334074449621s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path66" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle><path id="path67" d="M 1253.0571467996706 105.30639180852613
+c 0 25.621430465733948 -6.2690734118285185 7.359347048668261 -13.62842046049678 7.359347048668261
+S 1225.8003058786771 130.92782227426008 1225.8003058786771 105.30639180852613
+s 6.2690734118285185 -7.359347048668261 13.62842046049678 -7.359347048668261
+S 1253.0571467996706 79.68496134279218 1253.0571467996706 105.30639180852613
+z" fill="none" stroke="none" style="animation-play-state: running; animation-delay: 0s;"></path>
+<circle cx="0" cy="0" r="6.372033446614407" fill="#de9dd6" style="animation-play-state: running; animation-delay: 0s;">
+  <animateMotion begin="-1.961315193762184s" dur="6.26s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;">
+    <mpath xlink:href="#path67" style="animation-play-state: running; animation-delay: 0s;"></mpath>
+  </animateMotion>
+</circle></g>
+</svg>
